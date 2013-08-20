@@ -1,0 +1,4 @@
+name: Guelewar
+type: module #nouveau et obligatoire
+description: 'Un module-jouet pour tester Drupal8'
+core: 8.x
